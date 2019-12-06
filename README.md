@@ -1,4 +1,5 @@
 # Booking-Cinema-App
+This a console based app in java to try building a cinema booking system.
 
 1. Running on eclipse
 
