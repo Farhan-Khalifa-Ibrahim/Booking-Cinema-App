@@ -1,0 +1,9 @@
+jurong gv%1%Platinum%25%5%5
+jurong gv%2%Normal%36%6%6
+jurong gv%3%Normal%36%6%6
+yishun gv%1%Normal%36%6%6
+yishun gv%2%Normal%36%6%6
+yishun gv%3%Platinum%25%5%5
+cathay woodlands%1%Platinum%25%5%5
+cathay woodlands%2%Normal%36%6%6
+cathay woodlands%3%Normal%36%6%6

@@ -1,0 +1,23 @@
+avenger%not showing%180%jamesbon%1000%18%4.0%band of brothers together%10.0%liam%noah%william%james%logan
+avenger 3D%not showing%180%jamesbon%1000%18%0.0%band of brothers together%10.0%liam%noah%william%james%logan
+batman%currently showing%180%jackie%2022%21%3.5%dark knight rises%10.0%benjamin%mason%elijah%oliver%jacob
+batman 3D%currently showing%180%jackie%2012%21%0.0%dark knight rises%10.0%benjamin%mason%elijah%oliver%jacob
+joker%not showing%200%klaus%3000%21%3.5%Joking around%10.0%lucas%michael%alexander%ethan%daniel
+joker 3D%not showing%200%klaus%3000%21%0.0%Joking around%10.0%lucas%michael%alexander%ethan%daniel
+crazy rich asians%not showing%150%harley%5000%21%0.0%crazy bitches throwing money%8.0%mathhew%aiden%henry%joseph%jackson
+crazy rich asians 3D%not showing%150%harley%5000%21%0.0%crazy bitches throwing money%8.0%mathhew%aiden%henry%joseph%jackson
+pokemon%not showing%140%stevens spielberg%3000%16%5.0%pokemon gotta catch them all%8.0%samuel%sebastian%david%carter%wyatt
+pokemon 3D%not showing%140%stevens spielberg%3000%16%0.0%pokemon gotta catch them all%8.0%samuel%sebastian%david%carter%wyatt
+antman%not showing%180%martin scorsese%1000%18%4.2%useless hero%8.0%jayden%jhon%owen%dylan%luke
+antman 3D%not showing%180%martin scorsese%1000%18%0.0%useless hero%8.0%jayden%jhon%owen%dylan%luke
+007 james bond%not showing%180%james cameron%2000%21%3.0%action pack movie%8.0%gabriel%anthony%isaac%grayson%jack
+007 james bond 3D%not showing%180%james cameron%2000%21%0.0%action pack movie%8.0%gabriel%anthony%isaac%grayson%jack
+zombieland%currently showing%200%christopher%3101%13%4.0%left 4 dead 3%8.0%julian%levi%chris%joshua%andrew
+zombieland 3D%currently showing%200%christopher%3101%13%0.0%left 4 dead 3%8.0%julian%levi%chris%joshua%andrew
+terminator%upcoming%150%christopher%5000%18%3.0%guns guns guns%8.0%lincoln%mateo%ryan%jaxon%nathan
+terminator 3D%upcoming%150%christopher%5000%18%0.0%guns guns guns%8.0%lincoln%mateo%ryan%jaxon%nathan
+last christmas%upcoming%140%martin howler%3000%21%0.0%christmas went bad%8.0%aaron%isaiah%thomas%charles%caleb
+last christmas 3D%upcoming%140%martin howler%3000%21%0.0%christmas went bad%8.0%aaron%isaiah%thomas%charles%caleb
+frozen%currently showing%120%jeniffer wong%4%0%0.0%do you want to build a snowman%10.0%elsa%olaf%jim%paul%saul
+mission impossible%currently showing%130%jack michaels%0%13%0.0%spy movie saving the world%8.0%tom cruise%taylor swift%nicholas cage%robin co%charles
+cars%currently showing%90%rogers newton%0%21%0.0%virtual lightning mcqueen%8.0%eigen%klaus%wee kong%kascov%voltage
