@@ -2,7 +2,9 @@
 
 1. Running on eclipse
 
-   -Open source file in project system from MOBLIMA
+   - Add database and src into one folder
+   - open that folder
+   - run AppInterface.java in src folder
 
 2. Running on command line
 
